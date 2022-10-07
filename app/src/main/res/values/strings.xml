@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MTS Startup Hub</string>
+    <string name="welcome">Добро пожаловать в MTS Startup Hub!</string>
+    <string name="go">Начать</string>
+</resources>
